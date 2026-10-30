@@ -8,7 +8,7 @@ C++과 Unreal Engine을 중심으로 게임 클라이언트 개발을 공부하�
 - **Language:** C++, HLSL
 - **Engine:** Unreal Engine 4 / 5
 - **Graphics:** DirectX 11
-- **Tools:** Visual Studio, Git
+- **Tools:** Visual Studio
 
 ## 프로젝트
 
