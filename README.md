@@ -16,8 +16,8 @@ C++과 Unreal Engine을 중심으로 게임 클라이언트 개발을 공부하�
 
 | 프로젝트 | 주요 구현 기술 |
 |---|---|
-| [Portal - UE4.27](https://github.com/tjwjdah/Unreal4.27_Portal) | 재귀 렌더링, 포탈 텔레포트, 충돌 처리 |
 | [Building System - UE4.26](https://github.com/tjwjdah/Unreal4.26_Portfolio) | HISM, 청크 스트리밍, 데이터 기반 건축, Dirty Save |
+| [Portal - UE4.27](https://github.com/tjwjdah/Unreal4.27_Portal) | 재귀 렌더링, 포탈 텔레포트, 충돌 처리 |
 | [Battle Royale - UE5](https://github.com/tjwjdah/Unreal5_Portfolio_BattleRoyale_multi) | 멀티플레이, 서버 권한 처리, 차량 네트워크 동기화 |
 
 ### DirectX 11
