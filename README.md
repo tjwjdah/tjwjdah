@@ -12,7 +12,7 @@ C++과 Unreal Engine을 중심으로 게임 클라이언트 개발을 공부하�
 
 ## 프로젝트
 
-[요약 포트폴리오 PDF](https://github.com/tjwjdah/tjwjdah/blob/main/%EC%84%9C%EC%A0%95%EB%AA%A8_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+[요약 포트폴리오 PDF](https://github.com/tjwjdah/tjwjdah/blob/main/Client_Portfolio.pdf)
 
 ### Unreal Engine
 
