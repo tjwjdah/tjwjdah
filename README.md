@@ -25,6 +25,7 @@ C++과 Unreal Engine을 중심으로 게임 클라이언트 개발을 공부하�
 | 프로젝트 | 주요 구현 기술 |
 |---|---|
 | [Echo Assault - UE5.5](https://github.com/tjwjdah/EchoAssault) | 시간 잔상 시스템, ISM 탄환 일괄 갱신, AI(Codex) 협업 및 자동 검증 하네스 |
+
 **[PDF 포트폴리오 보기](https://github.com/tjwjdah/EchoAssault/blob/main/Docs/Echo_Assault_AI_Game_Portfolio.pdf)** · **[시연 영상 (1분 36초)](https://www.youtube.com/watch?v=v_glccnfzbg)**
 
 
