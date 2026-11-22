@@ -20,6 +20,14 @@ C++과 Unreal Engine을 중심으로 게임 클라이언트 개발을 공부하�
 | [Portal - UE4.27](https://github.com/tjwjdah/Unreal4.27_Portal) | 재귀 렌더링, 포탈 텔레포트, 충돌 처리 |
 | [Battle Royale - UE5](https://github.com/tjwjdah/Unreal5_Portfolio_BattleRoyale_multi) | 멀티플레이, 서버 권한 처리, 차량 네트워크 동기화 |
 
+### Unreal Engine · AI 협업
+
+| 프로젝트 | 주요 구현 기술 |
+|---|---|
+| [Echo Assault - UE5.5](https://github.com/tjwjdah/EchoAssault) | 시간 잔상 시스템, ISM 탄환 일괄 갱신, AI(Codex) 협업 및 자동 검증 하네스 |
+**[PDF 포트폴리오 보기](https://github.com/tjwjdah/EchoAssault/blob/main/Docs/Echo_Assault_AI_Game_Portfolio.pdf)** · **[시연 영상 (1분 36초)](https://www.youtube.com/watch?v=v_glccnfzbg)**
+
+
 ### DirectX 11
 
 | 프로젝트 | 주요 구현 기술 |
